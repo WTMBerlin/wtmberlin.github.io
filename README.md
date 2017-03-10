@@ -1,7 +1,3 @@
-## Our Meetup Group
-
-<iframe width="225" height="570" src="http://meetu.ps/37Pdby" frameborder="0"></iframe>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WTMBerlin/wtmberlin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
