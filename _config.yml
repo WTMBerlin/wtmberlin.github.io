@@ -10,15 +10,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Women Techmakers Berlin"
+description: "Your community as a woman in tech in Berlin. Get visibility, networking and resources for women in tech to drive innovation and participation in the field.."
 baseurl: ""
 url: "https://wtmberlin.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: "wtmberlin.github.io"
+siteVerification: ""
 
 # Organizer Info
 organizerName: "WTM Berlin"
@@ -35,9 +34,6 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
 
 # Navigation
 navigationLinks:
@@ -54,21 +50,14 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
-heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+heroImage: "wtm_berlin_logo.png"
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Women Techmakers Berlin"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Study Groups", image: "conference.jpg", text: "Learn new skills with us!" }
+ - {title: "Fireside Chats", image: "workshop.jpg", text: "Talks with women in tech in Berlin!" }
+ - {title: "International Women's Day", image: "hackathon.jpg", text: "Talks and networking!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
