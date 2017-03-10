@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Your community as a woman in tech in Berlin. Get visibility, networking and
+resources for women in tech to drive innovation and participation in the field.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+### About Women Techmakers
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Women Techmakers is Google’s brand and global program for women in technology.
+Women Techmakers provides visibility, community, and resources for women in
+technology to drive innovation and participation in the field. Women Techmakers
+events are designed to promote an environment of inclusivity for women in
+technology, as well as celebrate women leading the industry. We want to
+advance, grow, and celebrate women developers, designers, and technology
+entrepreneurs.
+
+[Women Techmakers](https://www.womentechmakers.com)
