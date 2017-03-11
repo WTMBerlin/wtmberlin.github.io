@@ -14,7 +14,7 @@ post telling your story.
 
 To create a new post, you'll have to follow this instructions.
 
-- Go to our GitHub project: https://github.com/WTMBerlin/wtmberlin.github.io
+- Go to our GitHub project: [https://github.com/WTMBerlin/wtmberlin.github.io](https://github.com/WTMBerlin/wtmberlin.github.io)
 - Create a "Fork" on your account
 - Navigate to the `_posts` folder (on GitHub)
 - Click on `Create new file`
