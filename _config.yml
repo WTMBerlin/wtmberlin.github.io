@@ -15,7 +15,7 @@ description: "Your community as a woman in tech in Berlin. Get visibility, netwo
 baseurl: ""
 url: "https://wtmberlin.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
+googleAnalyticsTrackingId: "UA-569590-6"
 googleAnalyticsSiteUrl: "wtmberlin.github.io"
 siteVerification: ""
 
