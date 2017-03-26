@@ -32,7 +32,7 @@ Students will have to enroll using this link:
 
 And once registered, start the courses clicking on “Start Free Course”.
 
-Then, [join the next Android Study Jam on Meetup.com](https://www.meetup.com/gdgberlin/events/)
+Then, [join the next Android Study Jam on Meetup.com](https://www.meetup.com/women-techmakers-berlin/events/)
 
 #### How we work
 
