@@ -46,9 +46,9 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.meetup.com/gdgberlin/?scroll=true", text: "Next Events"}
+ - {link: "https://www.meetup.com/women-techmakers-berlin/?scroll=true", text: "Next Events"}
 rightNavigationButtons:
- - {link: "https://www.meetup.com/gdgberlin/?scroll=true", text: "Next Events"}
+ - {link: "https://www.meetup.com/women-techmakers-berlin/?scroll=true", text: "Next Events"}
 
 # Hero Block
 heroImage: "hero.jpg"
