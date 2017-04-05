@@ -25,7 +25,7 @@ organizerAlternateName: "Women Techmakers Berlin"
 organizerDescription: "Your community as a woman in tech in Berlin. Get visibility, networking and resources for women in tech to drive innovation and participation in the field.."
 organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://wtmberlin.github.io/"
+organizerLink: "http://wtmberlin.com"
 
 # Head
 metaKeywords: "wtm, womenintech, womentechmakers, google, programming, android, chrome, developers, berlin"
@@ -62,7 +62,7 @@ eventDate: ""
 typeoutTextValues: '"Techmakers", "Developers", "Designers", "Testers", "Managers"'
 typeoutFallback: "Techmakers"
 heroButtons:
- - {link: "https://www.meetup.com/gdgberlin/?scroll=true", text: "Next Events"}
+ - {link: "https://www.meetup.com/women-techmakers-berlin/?scroll=true", text: "Next Events"}
 
 # About Block
 aboutTitle: "About Women Techmakers Berlin"
