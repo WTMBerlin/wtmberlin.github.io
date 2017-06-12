@@ -1,0 +1,36 @@
+1. What is Women Techmakers (WTM)?
+
+The official definition is: Google's Women Techmakers program provides visibility, community, and resources for women in technology.
+
+This translates to the social network for women in tech in your community. This is the place to discuss job openings, how to negotiate salaries, how to handle job conflicts, how to improve your machine learning skills, how to compose a talk proposal and anything related to your life in tech.
+This is an inclusive community for people of all genders, races, ages, backround and any other description of your identity.
+
+
+2. Why start a Women Techmakers chapter if there are other communities already?
+
+Many of the groups are focused on one technology or language. The purpose here is to provide a network for whatever your background and skill level is.
+
+
+3. What does running a chapter include?
+
+One time a year you are required to celebrate the International Women's Day. This is how it looked this year: https://www.womentechmakers.com/iwd17
+The rest of the time it is completely up to you - you can make events every week, every month or on an occasional basis. It can be a fireside chat with women from a company in your area, a workshop for learning a language or soft skills, and any other thing comes to your mind.
+
+
+4. What does it require from me?
+
+Doing your best at finding speakers, events and participants. Then giving a helluva event, and talking about it in social media. Usually there are multiple organizers per chapter, so the responsibility is spread across your team.
+
+
+5. What's in it for me?
+
+Good karma. It also gives you great connections in your community, both with companies and participants. You also get to learn new tech skills, organizational skills and public speaking skills. You also get to be part of your local Google Developer Group (GDG) chapter, with all the perks involved: a chance to attend Google IO, participanting in the regional GDG and WTM summits and maybe also in the global ones.
+
+
+6. Who is my address for questions?
+
+Your regional GDG lead. If you need help finding them, you can reach out to your local GDG chapter (https://developers.google.com/groups/directory/), and if you are not sure - we are always happy to help!
+
+
+Have more questions?
+Open a PR with your question, will include the questions and the answer in this page for everyone to learn better.
