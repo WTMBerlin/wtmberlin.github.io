@@ -32,5 +32,14 @@ Good karma. It also gives you great connections in your community, both with com
 Your regional GDG lead. If you need help finding them, you can reach out to your local GDG chapter (https://developers.google.com/groups/directory/), and if you are not sure - we are always happy to help!
 
 
+7. Can I see an example?
+
+Sure! Here is the Berlin chapter:
+On Twitter we mainly share events and motivational stories https:// twitter.com/wtm_berlin
+On the Facebook page our activity is similar: https://www.facebook.com/WomenTechmakersBerlinPage/
+In the Facebook group everyone can ask questions (e.g. how to prepare for an interview?) and post events (not only by WTM) - https://www.facebook.com/groups/1106085959408694/
+Meetup has all of our events - https://www.meetup.com/Women-Techmakers-Berlin/
+
+
 Have more questions?
 Open a PR with your question, will include the questions and the answer in this page for everyone to learn better.
