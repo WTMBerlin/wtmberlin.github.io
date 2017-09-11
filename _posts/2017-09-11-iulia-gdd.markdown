@@ -1,1 +1,22 @@
-Last week Natalie, an inspiring friend of mine and leader of the Women Techmakers Berlin, asked me if I wanted to go to the Google developer days event for free. I had never been to such an event before as I never really thought of myself as a developer. I am a PhD student in Artificial intelligence and Neuromorphic computing, coming from a computational neuroscience background. The exact designation of my PhD field tends to change every month or so, but it briefly revolves around developing brain-inspired intelligent algorithms for robots aspiring to take over humanity. Even though I wasn’t even sure what the difference between frontend and backend developers is, I decided to go anyway, because sometimes it’s good to let your comfort zone get some fresh air without you in it. This seemed like a good opportunity to improve my coding and project management skills and the whole thing was for free, so why not? What followed were two days of learning, being amazed, feeling socially awkward, making tons of friends despite that and ultimately enjoying every minute of it.
+
+Last week Natalie, an inspiring friend of mine and leader of the Women Techmakers Berlin, asked me if I wanted to go to the Google Developer Days event for free. I had never been to such an event before as I never really thought of myself as a developer. I am a PhD student in Artificial intelligence and Neuromorphic computing, coming from a Computational Neuroscience background. The exact designation of my PhD field tends to change every month or so, but it briefly revolves around developing brain-inspired intelligent algorithms for robots aspiring to take over humanity. Even though I wasn’t even sure if this is the right type of conference for me, I decided to go anyway, because sometimes it’s good to let your comfort zone get some fresh air without you in it. This seemed like a good opportunity to improve my coding and project management skills and the whole thing was for free, so why not? What followed were two days of learning, being amazed, feeling socially awkward, making tons of friends despite that and ultimately enjoying every minute of it.
+
+## I got in tech because...
+
+Your answer
+
+## I came to Berlin for...
+
+Your answer
+
+## I'm currently hacking on...
+
+Your answer
+
+## I'm excited about...
+
+Your answer
+
+## My advice for other women in tech is...
+
+Your answer
