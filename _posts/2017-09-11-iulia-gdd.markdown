@@ -1,1 +1,28 @@
+---
+layout: post
+title: A PhD student's impressions of Google Developer Days
+date:   2017-09-11 20:02:45 +0100
+categories: story
+---
 
+Two weeks ago, Natalie, an inspiring friend of mine and leader of Women Techmakers Berlin, asked me if I wanted to go to the Google Developer Days, which is a two-day event where developers meet to discuss and present all things Google- and development-related. I had never been to such an event before as I never really thought of myself as a developer. I am a second year PhD student in Artificial Intelligence and Neuromorphic Computing at the Institute of Neuroinformatics Zürich, coming from a Computational Neuroscience background. My PhD field sounds rather obscure to most, but my everyday work briefly revolves around developing brain-inspired, intelligent algorithms for robots aspiring to take over humanity (or at least to cook you a good chocolate muffin). Even though this event sounded intimidating, I decided to go anyway, because sometimes it’s good to let your comfort zone get some fresh air. What followed were two days of learning, being amazed, feeling socially awkward, making tons of friends despite that and ultimately enjoying every minute of it.
+
+Even though I expected to not be able to follow most of the content, I was pleasantly surprised by how well-explained and accessible all the talks and hands-on labs were. I learned how to program apps for Android, how to use Google Cloud functions to make my apps cooler, how to use the machine learning APIs that Google offers and many other things. I was impressed by the clarity and passion with which the participants spoke, by their friendliness and eagerness to share their knowledge. But most of all I enjoyed discussing ideas with like-minded people and making plans for starting Women Techmakers Zürich. I am so grateful that I mustered the courage to go to this event and once there to actively pursue conversations with other participants. 
+
+I will now give you a few details about myself, what I like and some advice for other people who might be in the same situation I was in when I couldn't decide whether to go to this event or not.
+
+## I got in tech because...
+
+I want to make the world an easier to live in, less chaotic place, with equal opportunities for everybody. I think tech is one of the fields that has the power to do that. 
+
+## I'm currently hacking on...
+
+Research on model-based reinforcement learning for autonomous robots. 
+
+## I'm excited about...
+
+Artificial Intelligence as a means to simplify humanity's lives and give them the freedom to focus on what truly matters to each individual.
+
+## My advice for other beginners in tech is ...
+
+Do not put labels on yourself that might limit you. Dare to try and dare to ask questions even if you are afraid of coming across as silly. Do not be intimidated by others who seem smarter or more experienced than you are.
