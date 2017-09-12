@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "International Women's Day"
+date:   2017-03-24 23:50:00 +0100
+categories: wtmberlin iwm
+---
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/iwd-2017-1.jpg" style="display:none">
+
+We celebrated IWD for the 3rd year on 08/03, and it was awesome!
+
+We had over 150 participants. We expected less, so we only made 150 badges, and that's when we stopped our count :)
+
+It was hosted at c-base, a spaceship that is a hackerspace in the heart of Berlin.
+
+<img src="{{ site.baseurl }}/img/posts/iwd-2017-2.jpg">
+
+There were 6 speakers telling there stories, all coming from different backgrounds:
+WTM Berlin study jams graduate, product manager, entrepreneur, software engineer, public speaker, and the group lead. We have also introduced the different study groups we are holding and will hold, such as Go and Android.
+
+After the talks we had a hot press machine, materials, and made bags, t-shirts and such freestyle. Most of them were of course WTM branded.
+
+For the event we have also opened a [twitter account](https://twitter.com/wtm_berlin) - you are all welcome to follow us!
+
+We uploaded all the [photos](https://www.facebook.com/pg/WomenTechmakersBerlinPage/photos/?tab=album&album_id=1299639716791606), and there is also a summary video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1RmKXYcL20I" frameborder="0" allowfullscreen></iframe>
+
+The event was announced on [meetup](https://www.meetup.com/Women-Techmakers-Berlin).
+
+All the best!
+Natalie, on behalf of the WTM Berlin gang
