@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Teaching for WTM: Just do it!
-date:   2017-09-18
+title:  "Teaching for WTM: Just do it!"
+date:   2017-09-18 00:00:00 +0000
 categories: story
 ---
+
 My journey with Women Tech Makers of Berlin started with answering a post on Facebook. I was more than thrilled to get involved and help anyway I could. The original idea was for each of us to teach our area of expertise.  This idea didn't pan out for multiple reasons. No harm done, I was still on board with the idea of teaching. However, I would quickly be taken out of my comfort zone when it was decided that we would teach Go. I have never worked in Go. But knowing a few other programming languages and having a good grasp of web development in general I thought I had nothing to loose. I went through a couple of tutorials and off I went to our first class to meet our students. 
 
 While it would not be my first experience teaching I was still filled with excitement and nervousness. This time it would be different, this time I would be giving back to the tech community. I was lucky to have some great mentors and teachers when I was beginning my career in technology, even now I have a few mentors I regularly touch base with and ping ideas off of, but there comes a time when you have to pay it forward and give back to the community. My time had come. 
