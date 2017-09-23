@@ -42,10 +42,11 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/android-study-jam/", text: "Android Study Jam"}
- - {link: "https://golangbridge.org/", text: "GoBridge"}
+ - {link: "https://golangbridge.org/", text: "Go Study Group"}
+ - {permalink: "/javascript-crash-course/", text: "JavaScript Crash Course"}
+ - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Facebook Group"}
  - {link: "https://twitter.com/wtm_berlin", text: "Twitter"}
  - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Facebook Page"}
- - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Facebook Group"}
  - {link: "https://github.com/WTMBerlin", text: "GitHub"}
 bottomNavigationLinks:
  - {link: "https://www.meetup.com/women-techmakers-berlin/?scroll=true", text: "Next Events"}
