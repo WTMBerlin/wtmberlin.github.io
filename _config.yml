@@ -74,10 +74,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "770", specialCharacter: "+", info: "members", detail: "from everywhere"}
- - {count: "25", specialCharacter: "+", info: "events", detail: "organized in 2016"}
- - {count: "15", specialCharacter: "+", info: "speakers", detail: "from Berlin and beyond"}
- - {count: "2", specialCharacter: "", info: "study groups", detail: "for your first steps in tech"}
+ - {count: "1000", specialCharacter: "+", info: "members", detail: "from everywhere"}
+ - {count: "25", specialCharacter: "+", info: "events", detail: "organized in 2017"}
+ - {count: "3", specialCharacter: "", info: "study groups", detail: "Android, Golang, JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
