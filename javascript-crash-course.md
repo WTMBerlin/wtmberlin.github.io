@@ -71,7 +71,7 @@ King
 Jägerstraße 32
 10117 Berlin
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.475291121882!2d13.406113615807671!3d52.52483427981511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851e1d943f383%3A0xce78b374eadae715!2sMax-Beer-Stra%C3%9Fe+2%2C+10119+Berlin!5e0!3m2!1sen!2sde!4v1489322986028" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d77698.20538369477!2d13.32636079727488!3d52.51409182764137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851d98289e7f3%3A0x6bb96b3b1adad56c!2sKing!5e0!3m2!1sen!2sde!4v1506184384946" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 #### Communication
