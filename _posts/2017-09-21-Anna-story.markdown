@@ -1,3 +1,10 @@
+---
+layout: post
+title: Keep cool and keep on coding
+date:   2017-09-23 17:15:45 +0100
+categories: story
+---
+
 My story begins at the point where I started **studying computer science without any prior programming knowledge.**
 
 
@@ -63,8 +70,9 @@ I think many people are kind of afraid of doing the first step because they beli
 
 >*The demand for tech people is rising and doesn’t seem to stop in the near future.*
 
-This false belief comes from the fact that computer scientists can do some pretty awesome but also complicated stuff.  
-The thing is, computer science is not only about that. You don’t need to be a math genius. It’s great when you are one, but if not, it’s fine as well. Furthermore, you may not need math at all. There are so many fields which require acknowledging a lot of knowledge, but are not that complicated. "Just" complex, that’s all. Testers, User Interface designers, other specialists from the connected fields.
+This false belief comes partially from the fact that computer scientists can do some pretty awesome but also complicated stuff.  
+The thing is, computer science is not only about that. You don’t need to be a math genius (it’s great when you are one, it’s fine as well. In some jobs, you don't need math at all) to be awesome at your work in a tech sector. There are so many fields which require acknowledging a lot of knowledge, but are not that complicated. "Just" complex, that’s all. 
+Testers, User Interface designers, other specialists from the connected fields.
 
 If you have some time, and by that I mean you have to be ready for honest hours of learning some concepts, syntax or whatever, and you think about requalifying, please do that. The spectrum is so wide it would be hard not to find something you will enjoy doing…
 
@@ -72,3 +80,5 @@ If you have some time, and by that I mean you have to be ready for honest hours 
 
 A friend of mine found a hackathon, he is a machine learning specialist. A hackathon is an event where you not necessarily hack something but rather code together with others, the whole day and night.  
 Afterwards I asked him how it was. “It was okay I guess” he said. “We haven’t finished, it was something other than I have expected. We were developing an Android app. What a pity you weren’t there!”  Well no worries, I’ll be there next time!
+
+_Anna Morgiel is a CS student and Android enthusiast. Follow her: @aniamorgiel_ 
