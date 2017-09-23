@@ -22,18 +22,15 @@ siteVerification: ""
 # Organizer Info
 organizerName: "WTM Berlin"
 organizerAlternateName: "Women Techmakers Berlin"
-organizerDescription: "At Women Techmakers Berlin we are encouraging diversity in tech in Berlin since 2015. Get visibility, networking and resources to make the tech community of Berlin diverse and inclusive!
-
-"
-organizerEmail: ""
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerDescription: "At Women Techmakers Berlin we are encouraging diversity in tech in Berlin since 2015. Get visibility, networking and resources to make the tech community of Berlin diverse and inclusive!"
+organizerLogo: "/img/wtm-logo.png"
 organizerLink: "http://wtmberlin.com"
 
 # Head
 metaKeywords: "wtm, diversityintech, womenintech, womentechmakers, google, programming, android, golang, javascript, chrome, developers, berlin"
 twitterAccount: "@wtm_berlin"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcTwitter: "/img/wtm-logo.png"
+socialImageSrcFacebook: "/img/wtm-logo.png"
 
 # Documents
 
