@@ -190,6 +190,7 @@ footerBlocks:
   links:
    - {permalink: "/android-study-jam/", text: "Android Study Jam"}
    - {link: "https://golangbridge.org/", text: "GoBridge"}
+   - {permalink: "/javascript-crash-course/", text: "JavaScript Crash Course"}
  -
   title: "FAQ"
   links:
