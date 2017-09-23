@@ -46,7 +46,7 @@ navigationLinks:
  #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
- - {link: "https://twitter.com/intent/user?screen_name=wtm_berlin", text: "Twitter"}
+ - {link: "https://twitter.com/wtm_berlin", text: "Twitter"}
  - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Facebook Page"}
  - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Facebook Group"}
  - {link: "https://github.com/WTMBerlin", text: "GitHub"}
@@ -173,18 +173,19 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=wtm_berlin", icon: "twitter"}
+ - {link: "https://twitter.com/wtm_berlin", icon: "twitter"}
  - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://twitter.com/intent/user?screen_name=wtm_berlin", text: "Our Twitter"}
    - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Our Facebook Page"}
    - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Our Facebook Group"}
+   - {link: "https://twitter.com/wtm_berlin", text: "Our Twitter"}
    - {link: "https://github.com/WTMBerlin", text: "Our GitHub"}
    - {link: "https://www.womentechmakers.com/", text: "Global Women Techmakers"}
+
  -
   title: "Study Groups"
   links:
