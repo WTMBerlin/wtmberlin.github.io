@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Women Techmakers Berlin"
-description: "Your community as a woman in tech in Berlin. Get visibility, networking and resources for women in tech to drive innovation and participation in the field.."
+description: "At Women Techmakers Berlin we are encouraging diversity in tech in Berlin since 2015. Get visibility, networking and resources to make the tech community of Berlin diverse and inclusive!"
 baseurl: ""
 url: "https://wtmberlin.github.io"
 permalink: "/blog/:title"
@@ -22,7 +22,9 @@ siteVerification: ""
 # Organizer Info
 organizerName: "WTM Berlin"
 organizerAlternateName: "Women Techmakers Berlin"
-organizerDescription: "Your community as a woman in tech in Berlin. Get visibility, networking and resources for women in tech to drive innovation and participation in the field.."
+organizerDescription: "At Women Techmakers Berlin we are encouraging diversity in tech in Berlin since 2015. Get visibility, networking and resources to make the tech community of Berlin diverse and inclusive!
+
+"
 organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://wtmberlin.com"
@@ -41,11 +43,6 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/android-study-jam/", text: "Android Study Jam"}
  - {link: "https://golangbridge.org/", text: "GoBridge"}
- #- {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speakers"}
- #- {permalink: "/team/", text: "Team"}
- #- {permalink: "/logistics/", text: "Logistics"}
- #- {permalink: "/hackathon/", text: "Hackathon"}
  - {link: "https://twitter.com/wtm_berlin", text: "Twitter"}
  - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Facebook Page"}
  - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Facebook Group"}
