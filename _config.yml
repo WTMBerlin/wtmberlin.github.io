@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Women Techmakers Berlin"
-description: "Your community as a woman in tech in Berlin. Get visibility, networking and resources for women in tech to drive innovation and participation in the field.."
+description: "At Women Techmakers Berlin we are encouraging diversity in tech in Berlin since 2015. Get visibility, networking and resources to make the tech community of Berlin diverse and inclusive!"
 baseurl: ""
 url: "https://wtmberlin.github.io"
 permalink: "/blog/:title"
@@ -22,16 +22,15 @@ siteVerification: ""
 # Organizer Info
 organizerName: "WTM Berlin"
 organizerAlternateName: "Women Techmakers Berlin"
-organizerDescription: "Your community as a woman in tech in Berlin. Get visibility, networking and resources for women in tech to drive innovation and participation in the field.."
-organizerEmail: ""
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerDescription: "At Women Techmakers Berlin we are encouraging diversity in tech in Berlin since 2015. Get visibility, networking and resources to make the tech community of Berlin diverse and inclusive!"
+organizerLogo: "/img/wtm-logo.png"
 organizerLink: "http://wtmberlin.com"
 
 # Head
-metaKeywords: "wtm, womenintech, womentechmakers, google, programming, android, chrome, developers, berlin"
+metaKeywords: "wtm, diversityintech, womenintech, womentechmakers, google, programming, android, golang, javascript, chrome, developers, berlin"
 twitterAccount: "@wtm_berlin"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcTwitter: "/img/wtm-logo.png"
+socialImageSrcFacebook: "/img/wtm-logo.png"
 
 # Documents
 
@@ -40,15 +39,12 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/android-study-jam/", text: "Android Study Jam"}
- - {link: "https://golangbridge.org/", text: "GoBridge"}
- #- {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speakers"}
- #- {permalink: "/team/", text: "Team"}
- #- {permalink: "/logistics/", text: "Logistics"}
- #- {permalink: "/hackathon/", text: "Hackathon"}
- - {link: "https://twitter.com/intent/user?screen_name=wtm_berlin", text: "Twitter"}
- - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Facebook Page"}
+ - {link: "https://golangbridge.org/", text: "Go Study Group"}
+ - {permalink: "/javascript-crash-course/", text: "JavaScript Crash Course"}
  - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Facebook Group"}
+ - {link: "https://twitter.com/wtm_berlin", text: "Twitter"}
+ - {link: "https://womentechmakersberlin.slack.com", text: "Slack"}
+ - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Facebook Page"}
  - {link: "https://github.com/WTMBerlin", text: "GitHub"}
 bottomNavigationLinks:
  - {link: "https://www.meetup.com/women-techmakers-berlin/?scroll=true", text: "Next Events"}
@@ -74,123 +70,34 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "770", specialCharacter: "+", info: "members", detail: "from everywhere"}
- - {count: "25", specialCharacter: "+", info: "events", detail: "organized in 2016"}
- - {count: "15", specialCharacter: "+", info: "speakers", detail: "from Berlin and beyond"}
- - {count: "2", specialCharacter: "", info: "study groups", detail: "for your first steps in tech"}
+ - {count: "1000", specialCharacter: "+", info: "members", detail: "from everywhere"}
+ - {count: "25", specialCharacter: "+", info: "events", detail: "organized in 2017"}
+ - {count: "3", specialCharacter: "", info: "study groups", detail: "Android, Golang, JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 5
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
-
-# Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
-
-# Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
-
-# Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
-
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
-
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=wtm_berlin", icon: "twitter"}
+ - {link: "https://twitter.com/wtm_berlin", icon: "twitter"}
  - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://twitter.com/intent/user?screen_name=wtm_berlin", text: "Our Twitter"}
    - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Our Facebook Page"}
    - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Our Facebook Group"}
+   - {link: "https://twitter.com/wtm_berlin", text: "Our Twitter"}
    - {link: "https://github.com/WTMBerlin", text: "Our GitHub"}
    - {link: "https://www.womentechmakers.com/", text: "Global Women Techmakers"}
+
  -
   title: "Study Groups"
   links:
    - {permalink: "/android-study-jam/", text: "Android Study Jam"}
    - {link: "https://golangbridge.org/", text: "GoBridge"}
+   - {permalink: "/javascript-crash-course/", text: "JavaScript Crash Course"}
  -
   title: "FAQ"
   links:
@@ -199,7 +106,6 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
-#discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: false
