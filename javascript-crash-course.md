@@ -10,6 +10,14 @@ This is a course designed for introducing JavaScript and Node.js as a platform f
 
 The course is designed around open-source technologies, so a Unix-like system, Linux or MacOS is preferred. Git and Visual Studio Code will be our main tools, along with Node.js. Windows is not preferred, but if you absolutely have to live on Windows, you should have a working git and Node.js installation, and the rest will work.
 
+In the end we expect to come up with a simple backend application that gets deployed with Docker and provides a REST API before a MongoDB datastore. This will not be an easy task, but we are committed to get every attendee on this level :)
+
+Finally, this is a challenging, intensive, but fun and resourceful course. We will strive to do better each and every week. It won’t be a bed of roses, but it will provide immense learning opportunities.
+
+We also have a [slack group](https://womentechmakersberlin.slack.com/) to help out the attendees with their assignments outside the class hours.
+
+Various engineers from unu GmbH and other volunteers will also help the attendees throughout the lectures.
+
 #### Syllabus
 
 ##### Meeting 1: JavaScript & ES6 Fundamentals
@@ -43,14 +51,6 @@ This session focuses on testing Node.js applications and the APIs that we have d
 ###### Meeting 8: Deploying & Scaling Apps with Docker
 
 The final session in this series introduces the final step in an application's lifecycle — the deployment. We learn the basics of Docker and how to deploy our Node.js applications with Docker. We introduce the concepts of continuous integration and continuous deployment, as well as automated testing. This session also includes scaling Node.js applications with load balancers and a reverse proxy setup with nginx.
-
-In the end we expect to come up with a simple backend application that gets deployed with Docker and provides a REST API before a MongoDB datastore. This will not be an easy task, but we are committed to get every attendee on this level :)
-
-Finally, this is a challenging, intensive, but fun and resourceful course. We will strive to do better each and every week. It won’t be a bed of roses, but it will provide immense learning opportunities.
-
-We also want to have a slack environment to help out the attendees with their assignments outside the class hours.
-
-Also — we should indicate somewhere that we’ll be accompanied by various engineers at unu GmbH, and they will help the attendees throughout the lectures.
 
 #### How to join
 
