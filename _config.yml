@@ -40,7 +40,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/android-study-jam/", text: "Android Study Jam"}
  - {link: "https://golangbridge.org/", text: "Go Study Group"}
- - {permalink: "/javascript-crash-course/", text: "JavaScript Crash Course"}
+ - {permalink: "/javascript-crash-course/", text: "JS Crash Course"}
  - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Facebook Group"}
  - {link: "https://twitter.com/wtm_berlin", text: "Twitter"}
  - {link: "https://womentechmakersberlin.slack.com", text: "Slack"}
