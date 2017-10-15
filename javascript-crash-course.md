@@ -27,7 +27,7 @@ Additionally, all talks are recorded and uploaded to YouTube. This is done with 
 
 An introduction on how JavaScript works and how to take advantage of the new ES6 syntax and features. In this session, we cover the basic programming paradigms in JavaScript, as well as topics like OOP and functional programming. We use the Chrome browser as a playground for an interactive session.
 
-[Recorded talk] (https://youtu.be/xgzHW_WqYnM)
+[Recorded talk](https://youtu.be/xgzHW_WqYnM)
 
 ###### Meeting 2: Node.js Ecosystem & Basics
 
