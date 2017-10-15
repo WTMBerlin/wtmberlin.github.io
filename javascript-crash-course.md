@@ -14,15 +14,20 @@ In the end we expect to come up with a simple backend application that gets depl
 
 Finally, this is a challenging, intensive, but fun and resourceful course. We will strive to do better each and every week. It won’t be a bed of roses, but it will provide immense learning opportunities.
 
-We also have a [slack group](https://womentechmakersberlin.slack.com/) to help out the attendees with their assignments outside the class hours.
+We also have a dedicated Slack channel (#js-crash-course) in the [WTM Slack](https://womentechmakersberlin.slack.com/) to help out the attendees with their assignments outside the class hours. An invite link to our Slack can be found in each of the meetup events.
 
-Various engineers from unu GmbH and other volunteers will also help the attendees throughout the lectures.
+During the meetings a group of volunteers will be around to answer your questions.
+Additionally, all our volunteers are online on Slack to answer your questions, in addition to several online-only volunteers. You'll spot them easily - they have a red cross helmet emoji as part of their names.
+
+Additionally, all talks are recorded and uploaded to YouTube. This is done with the purpose to help all those who want to take our course and can't attend one meeting (e.g. if you caught a cold) or any meeting (e.g.  if you have to babysit). If you will watch all talks, live or online, and present a satisfying final project - you will get the graduation certificate.
 
 #### Syllabus
 
 ##### Meeting 1: JavaScript & ES6 Fundamentals
 
 An introduction on how JavaScript works and how to take advantage of the new ES6 syntax and features. In this session, we cover the basic programming paradigms in JavaScript, as well as topics like OOP and functional programming. We use the Chrome browser as a playground for an interactive session.
+
+[Recorded talk] (https://youtu.be/xgzHW_WqYnM)
 
 ###### Meeting 2: Node.js Ecosystem & Basics
 
