@@ -72,7 +72,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "1000", specialCharacter: "+", info: "members", detail: "from everywhere"}
  - {count: "25", specialCharacter: "+", info: "events", detail: "organized in 2017"}
- - {count: "3", specialCharacter: "", info: "study groups", detail: "Android, Golang, JavaScript"}
+ - {count: "3", specialCharacter: "", info: "study groups", detail: "Android, Go, JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -86,10 +86,10 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Our Facebook Page"}
-   - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Our Facebook Group"}
-   - {link: "https://twitter.com/wtm_berlin", text: "Our Twitter"}
-   - {link: "https://github.com/WTMBerlin", text: "Our GitHub"}
+   - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Facebook Page"}
+   - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Facebook Group"}
+   - {link: "https://twitter.com/wtm_berlin", text: "Twitter"}
+   - {link: "https://github.com/WTMBerlin", text: "GitHub"}
    - {link: "https://www.womentechmakers.com/", text: "Global Women Techmakers"}
 
  -
@@ -97,7 +97,7 @@ footerBlocks:
   links:
    - {permalink: "/android-study-jam/", text: "Android Study Jam"}
    - {link: "https://golangbridge.org/", text: "GoBridge"}
-   - {permalink: "/javascript-crash-course/", text: "JavaScript Crash Course"}
+   - {permalink: "/javascript-crash-course/", text: "JS Crash Course"}
  -
   title: "FAQ"
   links:
