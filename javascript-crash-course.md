@@ -33,6 +33,8 @@ An introduction on how JavaScript works and how to take advantage of the new ES6
 
 A fast dive into the Node.js ecosystem, detailing its working principles. A brief intro to its implementation and moving on to making use of and creating modules. Demonstration of the previous JavaScript and ES6 fundamentals, delving into the module pattern and several examples to familiarize with npm packages. We also talk about interacting with the file system. Useful tools like PM2 and nodemon are introduced in this session, as well as live debugging with Node.js. We use Visual Studio Code as the IDE of choice.
 
+[Recorded talk](https://youtu.be/MP0wROOhyH8)
+
 ###### Meeting 3: Promises and Async Programming
 
 This session focuses on solving the challenges of asynchronous programming with certain constructs in Node.js — promises, async and await keywords. We discuss how each implementation enables a certain way of programming, and introduce a control flow library called async. We also touch upon streams and stream programming.
