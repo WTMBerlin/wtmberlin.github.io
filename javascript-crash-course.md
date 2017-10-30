@@ -39,6 +39,8 @@ A fast dive into the Node.js ecosystem, detailing its working principles. A brie
 
 This session focuses on solving the challenges of asynchronous programming with certain constructs in Node.js — promises, async and await keywords. We discuss how each implementation enables a certain way of programming, and introduce a control flow library called async. We also touch upon streams and stream programming.
 
+[Recorded talk](https://youtu.be/RH_lwP-mjVM)
+
 ###### Meeting 4: HTTP APIs with Express.js
 
 An introduction to web applications with the express framework and most popular packages including sessions and authentication, as well middleware implementations. We go into the details of HTTP and talk about RESTful APIs. We start implementing an example back-end application with express. We briefly talk about real-time capabilities with WebSockets.
