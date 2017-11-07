@@ -45,6 +45,8 @@ This session focuses on solving the challenges of asynchronous programming with 
 
 An introduction to web applications with the express framework and most popular packages including sessions and authentication, as well middleware implementations. We go into the details of HTTP and talk about RESTful APIs. We start implementing an example back-end application with express. We briefly talk about real-time capabilities with WebSockets.
 
+[Recorded talk](https://www.youtube.com/watch?v=ofQu4y-5v6c)
+
 ###### Meeting 5: Adding a MongoDB Datastore
 
 This session improves on the previous express application and introduces a MongoDB database as the datastore. We look into mongoose ODM and how to model simple data structures in MongoDB. We also talk about database denormalization approaches MongoDB enables. Further experiments with MongoDB queries and wiring the REST endpoints of the express app to real data.
