@@ -51,6 +51,8 @@ An introduction to web applications with the express framework and most popular 
 
 This session improves on the previous express application and introduces a MongoDB database as the datastore. We look into mongoose ODM and how to model simple data structures in MongoDB. We also talk about database denormalization approaches MongoDB enables. Further experiments with MongoDB queries and wiring the REST endpoints of the express app to real data.
 
+[Recorded talk](https://www.youtube.com/watch?v=EYYO4Le8bWQ)
+
 ###### Meeting 6: Design Patterns
 
 A step back from hands-on implementation to talk about certain design patterns that are useful in Node.js applications — Adapter, Strategy, Middleware, Proxy, Decorator, Observer, Pub/Sub and several others. Practical examples of each follow theoretical introduction.
