@@ -53,9 +53,10 @@ This session improves on the previous express application and introduces a Mongo
 
 [Recorded talk](https://www.youtube.com/watch?v=EYYO4Le8bWQ)
 
-###### Meeting 6: Design Patterns
+###### Meeting 6: Working on Projects
 
-A step back from hands-on implementation to talk about certain design patterns that are useful in Node.js applications — Adapter, Strategy, Middleware, Proxy, Decorator, Observer, Pub/Sub and several others. Practical examples of each follow theoretical introduction.
+This session is fully hands on. Work on your project, ask for help with your work or for clarifications on our past materials. Let's get those websites to life!
+
 
 ###### Meeting 7: Testing
 
