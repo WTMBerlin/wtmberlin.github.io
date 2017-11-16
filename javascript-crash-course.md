@@ -78,7 +78,7 @@ The trick is to not get overwhelmed and to find what makes you happy as happy de
 
 #### How to join
 
-Sign up on [Meetup.com](https://www.meetup.com/Women-Techmakers-Berlin/events/243484352/).
+Sign up on [Meetup.com](https://www.meetup.com/Women-Techmakers-Berlin/events/).
 Please be aware you'll be required to attend at least 80% of the classes to successfully complete the course.
 
 #### Diversity and Code of Conduct
