@@ -53,9 +53,10 @@ This session improves on the previous express application and introduces a Mongo
 
 [Recorded talk](https://www.youtube.com/watch?v=EYYO4Le8bWQ)
 
-###### Meeting 6: Working on Projects
+###### Meeting 6: Hands-on Session
 
 This session is fully hands on. Work on your project, ask for help with your work or for clarifications on our past materials. Let's get those websites to life!
+
 
 
 ###### Meeting 7: Testing
@@ -72,8 +73,9 @@ We will gather to hear the talk JavaScript is a Buffet, not a Main Course by [Ch
 
 
 Talk Description: 
-Now that you learned about JavaScript, you're ready to take on the world as JavaScript runs everywhere.
-The trick is to not get overwhelmed and to find what makes you happy as happy developers are effective developers. Chris Heilmann has a 18 year old history of using the language and wrote many books about it. Let him help you not get lost in the rabbit hole that is JavaScript in 2017.
+Now that you learned about JavaScript, you're ready to take on the world as JavaScript runs everywhere.The trick is to not get overwhelmed and to find what makes you happy as happy developers are effective developers. 
+
+Chris Heilmann has a 18 year old history of using the language and wrote many books about it. Let him help you not get lost in the rabbit hole that is JavaScript in 2017.
 
 
 #### How to join
