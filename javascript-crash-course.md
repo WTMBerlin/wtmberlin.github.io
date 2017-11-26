@@ -60,7 +60,7 @@ This session is fully hands on. Work on your project, ask for help with your wor
 
 ###### Meeting 7: Testing
 
-This session focuses on testing Node.js applications and the APIs that we have developed. We talk about general best practices in testing software, and several layers of application testing including unit testing, integration testing and acceptance testing. We implement several tests for our APIs with the test runner ava, and introduce stubs with sinon.
+This session focuses on testing Node.js applications and the APIs that we have developed. We talk about general best practices in testing software, and several layers of application testing including unit testing, integration testing and acceptance testing. We implement several tests for our APIs with the test runner [AVA](https://github.com/avajs/ava).
 
 [Recorded talk](https://www.youtube.com/watch?v=NXMwf2OSVWQ)
 
