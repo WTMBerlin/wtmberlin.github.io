@@ -62,6 +62,8 @@ This session is fully hands on. Work on your project, ask for help with your wor
 
 This session focuses on testing Node.js applications and the APIs that we have developed. We talk about general best practices in testing software, and several layers of application testing including unit testing, integration testing and acceptance testing. We implement several tests for our APIs with the test runner ava, and introduce stubs with sinon.
 
+[Recorded talk](https://www.youtube.com/watch?v=NXMwf2OSVWQ)
+
 ###### Meeting 8: Deploying & Scaling Apps with Docker
 
 The final session in this series introduces the final step in an application's lifecycle — the deployment. We learn the basics of Docker and how to deploy our Node.js applications with Docker. We introduce the concepts of continuous integration and continuous deployment, as well as automated testing. This session also includes scaling Node.js applications with load balancers and a reverse proxy setup with nginx.
