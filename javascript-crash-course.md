@@ -69,6 +69,8 @@ This session focuses on testing Node.js applications and the APIs that we have d
 
 The final session in this series introduces the final step in an application's lifecycle — the deployment. We learn the basics of Docker and how to deploy our Node.js applications with Docker. We introduce the concepts of continuous integration and continuous deployment, as well as automated testing. This session also includes scaling Node.js applications with load balancers and a reverse proxy setup with nginx.
 
+[Recorded talk](https://youtu.be/R2eYylz41Gg)
+
 ###### Meeting 9: Graduation Event
 
 We will gather to hear the talk "JavaScript is a Buffet, not a Main Course" by [Chris Heilamnn](http://christianheilmann.com/), see the final projects and cheers our classmates!
