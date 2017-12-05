@@ -74,14 +74,16 @@ The final session in this series introduces the final step in an application's l
 ###### Meeting 9: Graduation Event
 
 We will gather to hear the talk "JavaScript is a Buffet, not a Main Course" by [Chris Heilamnn](http://christianheilmann.com/), see the final projects and cheer our classmates!
-Read about the talk by Chris Heilamnn: [So, you learned JavaScript – what now?](https://christianheilmann.com/2017/12/05/so-you-learned-javascript-what-now/)
-And check out the [graduation event pictures](https://www.facebook.com/pg/WomenTechmakersBerlinPage/photos/?tab=album&album_id=1561335890621986)
+
+See the [graduation event pictures](https://www.facebook.com/pg/WomenTechmakersBerlinPage/photos/?tab=album&album_id=1561335890621986)
 
 
 Talk Description: 
 Now that you learned about JavaScript, you're ready to take on the world as JavaScript runs everywhere. The trick is to not get overwhelmed and to find what makes you happy as happy developers are effective developers. 
 
 Chris Heilmann has a 18 year old history of using the language and wrote many books about it. Let him help you not get lost in the rabbit hole that is JavaScript in 2017.
+
+Read about the talk: [So, you learned JavaScript – what now?](https://christianheilmann.com/2017/12/05/so-you-learned-javascript-what-now/)
 
 
 #### How to join
