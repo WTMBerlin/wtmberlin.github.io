@@ -5,12 +5,11 @@ date: 2017-12-12
 categories: story
 ---
 
-I recently had the opportunity to attend the [JavaScript Crash Course by Women Techmakers Berlin](http://wtmberlin.com/javascript-crash-course/).
-It was a 2 months course, the lectures were every Thursday from 7 PM to 10 PM and the goal of the course was _To introduce JavaScript and Node.js as a platform for backend applications._
+I recently had the opportunity to attend the [JavaScript Crash Course by Women Techmakers Berlin](http://wtmberlin.com/javascript-crash-course/). It was a 2 months course, the lectures were every Thursday from 7 PM to 10 PM and the goal of the course was _To introduce JavaScript and Node.js as a platform for backend applications._
 
 At first, when I signed up to the course, I was unsure if I was going to make it until the end. 8 weeks seemed like a long time and December seemed so far away. How wrong I was! Time went by so quickly, and I felt so at peace during the course. Even when I had a rough Thursday, I always knew everything would be better the moment I reached the [course location](https://king.com/de) and the lecture started. It happened every time.
 
-The course was well structured and the instructor was very experienced. It was so amazing to see how [Armağan](https://arm.ag/) (our instructor) captured the attention of all the attendees and kept all of us engaged, even though we all came from different backgrounds or were at different stages in our Software Development Careers.
+The course was very well structured and the instructor was very experienced. It was so amazing to see how [Armağan](https://arm.ag/) (our instructor) captured the attention of all the attendees and kept all of us engaged, even though we all came from different backgrounds or were at different stages in our Software Development Careers.
 
 I had such a great time during the course! Every time a week started I was so looking forward for Thursday to arrive! And when finally Thursday arrived I would wake up and say: 
 > Yay! It is JavaScript Day! It is JavaScript day! :dancer:
@@ -30,4 +29,3 @@ Finally, if you are interested on the course, you will be very happy to know tha
 Thank you and May the Force be with you! :star:
 
 Ely Flores
-
