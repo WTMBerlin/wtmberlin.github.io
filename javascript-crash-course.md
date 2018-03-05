@@ -19,7 +19,7 @@ In addition to the lectures, we will meet to hack on our projects on a bi-weekly
 ##### Meeting 1: Design Patterns
 An introduction to popular software design patterns and how they can be utilized with JavaScript. In this session, we talk about what a design pattern is, what anti-patterns are, how they emerge and when to make use of one. We talk about some of the Gang of Four patterns and their applications.
 
-##### Meeting 2: Authentication and middleware
+##### Meeting 2: Authentication and Middleware
 Most web applications rely on user accounts and interaction. In this session we will talk about building user accounts, authentication with username and password, and see an example “log in with Facebook” implementation. We will also go over the concept of middleware in Express and see how we can utilize it for various purposes.
 
 ##### Meeting 3: Bridging APIs
@@ -28,7 +28,7 @@ A web application of any complexity makes use of multiple 3rd party APIs, whethe
 ##### Meeting 4: The Frontend
 It’s time to give our application a real face. In this session we will go over the best practices of frontend engineering and building user interface applications. We will look at Vue.js, talk about its features and capabilities, and build a simple frontend with it.
 
-##### Meeting 5: Advanced database constructs
+##### Meeting 5: Advanced Database Constructs
 There is a lot more than meets the eye when it comes to databases. In this talk we will briefly look at concepts like CAP theorem, ACID, and see how MongoDB operates under these. We will also see advanced query constructs in MongoDB with aggregate queries for reporting and analytics and other features like full text search and geolocation queries.
 
 
