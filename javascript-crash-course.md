@@ -5,6 +5,34 @@ permalink: /javascript-crash-course/
 isStaticPost: true
 ---
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/js-bg.jpg" style="display:none">
+### Advanced
+
+Welcome to Women Techmakers Berlin's Advanced JavaScript winter course!
+
+The course will spread over 5 lectures during March through May, where we will dive deeper in JS, following our last year's Beginners course. If you missed it - you can catch up, as all of our talks are available below.
+You are also welcome to join the JS Slack (#js-crash-course) in the [Women Techmakers Berlin Slack](https://join.slack.com/t/womentechmakersberlin/shared_invite/enQtMjQ1ODcwNTIyMTAxLTY1NmVjMGQzOTgxNmI0ZWUwYWNlNDg0MjkyYjEwNDY5ZjVlMzU1ZDZlMjc1MGUzNzRhZWM3YzYxMDVmNWYzNjQ), and ask your questions - to catch up on last year's material, or to ask question from the latest lecture.
+This year we will keep uploading lectures, so don't worry if you have to miss one.
+
+In addition to the lectures, we will meet to hack on our projects on a bi-weekly basis, just you, your project, the instructors and a whole-lotta-mate!
+
+
+##### Meeting 1: Design Patterns
+An introduction to popular software design patterns and how they can be utilized with JavaScript. In this session, we talk about what a design pattern is, what anti-patterns are, how they emerge and when to make use of one. We talk about some of the Gang of Four patterns and their applications.
+
+##### Meeting 2: Authentication and middleware
+Most web applications rely on user accounts and interaction. In this session we will talk about building user accounts, authentication with username and password, and see an example “log in with Facebook” implementation. We will also go over the concept of middleware in Express and see how we can utilize it for various purposes.
+
+##### Meeting 3: Bridging APIs
+A web application of any complexity makes use of multiple 3rd party APIs, whether it’s a stock exchange ticker, a weather app, a news aggregator or something that interacts with storage services to store user data. In this session we will talk about modular applications and making use of existing APIs to grow the capabilities of our application.
+
+##### Meeting 4: The Frontend
+It’s time to give our application a real face. In this session we will go over the best practices of frontend engineering and building user interface applications. We will look at Vue.js, talk about its features and capabilities, and build a simple frontend with it.
+
+##### Meeting 5: Advanced database constructs
+There is a lot more than meets the eye when it comes to databases. In this talk we will briefly look at concepts like CAP theorem, ACID, and see how MongoDB operates under these. We will also see advanced query constructs in MongoDB with aggregate queries for reporting and analytics and other features like full text search and geolocation queries.
+
+
+### Beginner
 
 This is a course designed for introducing JavaScript and Node.js as a platform for backend applications. It assumes that you know basic concepts of (object oriented) programming but we will start from the beginner level and build up. So, the more programming experience, the better — but total newbies are also welcome, provided that they invest the required amount of time for self-learning.
 
@@ -101,24 +129,27 @@ and we don’t tolerate any kind of bad behaviour as defined by the code of cond
 
 #### Location
 
-King
-Jägerstraße 32
-10117 Berlin
+Le Wagon Berlin
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d77698.20538369477!2d13.32636079727488!3d52.51409182764137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851d98289e7f3%3A0x6bb96b3b1adad56c!2sKing!5e0!3m2!1sen!2sde!4v1506184384946" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+Rudi-Dutschke-Str. 26, 10969 Berlin
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.4558104670805!2d13.389230816210418!3d52.50708967981181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851d150f75b59%3A0x79345cc8e68056cc!2sLe+Wagon+Berlin+Coding+Bootcamp!5e0!3m2!1sen!2sde!4v1520287959707" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 #### Communication
 
-Join the [Women Techmakers Berlin Slack](https://join.slack.com/t/womentechmakersberlin/shared_invite/enQtMjQ1ODcwNTIyMTAxLTY1NmVjMGQzOTgxNmI0ZWUwYWNlNDg0MjkyYjEwNDY5ZjVlMzU1ZDZlMjc1MGUzNzRhZWM3YzYxMDVmNWYzNjQ)
+Join the [Women Techmakers Berlin Slack](https://join.slack.com/t/womentechmakersberlin/shared_invite/enQtMjQ1ODcwNTIyMTAxLTY1NmVjMGQzOTgxNmI0ZWUwYWNlNDg0MjkyYjEwNDY5ZjVlMzU1ZDZlMjc1MGUzNzRhZWM3YzYxMDVmNWYzNjQ).
 
-Join the #javascript channel
+Join the #js-crash-course channel.
 
 #### FAQ for Students
 
+**Do I need programming knowledge to attend the Advanced course?**
+
+Some previous programming knowledge would be really useful.
+
 **Do I need to attend to all the sessions?**
 
-We require at least attending at least 80% of the classes
+We require at least attending at least 80% of the classes.
 
 **Do I need to present a final project for graduation?**
 
@@ -126,13 +157,25 @@ Yes, presenting your project at the closing event is required to get the certifi
 
 **I skipped some lessons and I am lost. Can I still come to the events?**
 
-Ping the coaches on slack, who can help you plan your catching up.
+Ping the coaches on Slack, who can help you plan your catching up.
 
 **How many hours do I need to study each week?**
 
-We recommend investing about 3 hours a week in order to complete the whole course and do the project.
+Ideally you'll keep working on your project at home. We recommend investing about 3 hours a week in order to complete the whole course and do the project. 
 
 **Do I need to prepare the sessions at home?**
 
 Yes, it is recommended that the students will review the recently taught material before each class.
+
+**Who can attend?**
+
+All genders are welcome.
+
+**How do I RSVP for each lesson?**
+
+RSVP opens for the next Meetup one week in advance, and you can RSVP during class.
+
+**Will food be provided?**
+
+There will be drinks and snacks.
 
