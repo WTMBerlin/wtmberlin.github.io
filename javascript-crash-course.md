@@ -16,19 +16,19 @@ This year we will keep uploading lectures, so don't worry if you have to miss on
 In addition to the lectures, we will meet to hack on our projects on a bi-weekly basis, just you, your project, the instructors and a whole-lotta-mate!
 
 
-##### Meeting 1: Design Patterns
+##### Lecture 1: Design Patterns
 An introduction to popular software design patterns and how they can be utilized with JavaScript. In this session, we talk about what a design pattern is, what anti-patterns are, how they emerge and when to make use of one. We talk about some of the Gang of Four patterns and their applications.
 
-##### Meeting 2: Authentication and Middleware
+##### Lecture 2: Authentication and Middleware
 Most web applications rely on user accounts and interaction. In this session we will talk about building user accounts, authentication with username and password, and see an example “log in with Facebook” implementation. We will also go over the concept of middleware in Express and see how we can utilize it for various purposes.
 
-##### Meeting 3: Bridging APIs
+##### Lecture 3: Bridging APIs
 A web application of any complexity makes use of multiple 3rd party APIs, whether it’s a stock exchange ticker, a weather app, a news aggregator or something that interacts with storage services to store user data. In this session we will talk about modular applications and making use of existing APIs to grow the capabilities of our application.
 
-##### Meeting 4: The Frontend
+##### Lecture 4: The Frontend
 It’s time to give our application a real face. In this session we will go over the best practices of frontend engineering and building user interface applications. We will look at Vue.js, talk about its features and capabilities, and build a simple frontend with it.
 
-##### Meeting 5: Advanced Database Constructs
+##### Lecture 5: Advanced Database Constructs
 There is a lot more than meets the eye when it comes to databases. In this talk we will briefly look at concepts like CAP theorem, ACID, and see how MongoDB operates under these. We will also see advanced query constructs in MongoDB with aggregate queries for reporting and analytics and other features like full text search and geolocation queries.
 
 
@@ -51,55 +51,55 @@ Additionally, all talks are recorded and uploaded to YouTube. This is done with 
 
 #### Syllabus
 
-##### Meeting 1: JavaScript & ES6 Fundamentals
+##### Lecture 1: JavaScript & ES6 Fundamentals
 
 An introduction on how JavaScript works and how to take advantage of the new ES6 syntax and features. In this session, we cover the basic programming paradigms in JavaScript, as well as topics like OOP and functional programming. We use the Chrome browser as a playground for an interactive session.
 
 [Recorded talk](https://youtu.be/xgzHW_WqYnM)
 
-###### Meeting 2: Node.js Ecosystem & Basics
+###### Lecture 2: Node.js Ecosystem & Basics
 
 A fast dive into the Node.js ecosystem, detailing its working principles. A brief intro to its implementation and moving on to making use of and creating modules. Demonstration of the previous JavaScript and ES6 fundamentals, delving into the module pattern and several examples to familiarize with npm packages. We also talk about interacting with the file system. Useful tools like PM2 and nodemon are introduced in this session, as well as live debugging with Node.js. We use Visual Studio Code as the IDE of choice.
 
 [Recorded talk](https://youtu.be/MP0wROOhyH8)
 
-###### Meeting 3: Promises and Async Programming
+###### Lecture 3: Promises and Async Programming
 
 This session focuses on solving the challenges of asynchronous programming with certain constructs in Node.js — promises, async and await keywords. We discuss how each implementation enables a certain way of programming, and introduce a control flow library called async. We also touch upon streams and stream programming.
 
 [Recorded talk](https://youtu.be/RH_lwP-mjVM)
 
-###### Meeting 4: HTTP APIs with Express.js
+###### Lecture 4: HTTP APIs with Express.js
 
 An introduction to web applications with the express framework and most popular packages including sessions and authentication, as well middleware implementations. We go into the details of HTTP and talk about RESTful APIs. We start implementing an example back-end application with express. We briefly talk about real-time capabilities with WebSockets.
 
 [Recorded talk](https://www.youtube.com/watch?v=ofQu4y-5v6c)
 
-###### Meeting 5: Adding a MongoDB Datastore
+###### Lecture 5: Adding a MongoDB Datastore
 
 This session improves on the previous express application and introduces a MongoDB database as the datastore. We look into mongoose ODM and how to model simple data structures in MongoDB. We also talk about database denormalization approaches MongoDB enables. Further experiments with MongoDB queries and wiring the REST endpoints of the express app to real data.
 
 [Recorded talk](https://www.youtube.com/watch?v=EYYO4Le8bWQ)
 
-###### Meeting 6: Hands-on Session
+###### Lecture 6: Hands-on Session
 
 This session is fully hands on. Work on your project, ask for help with your work or for clarifications on our past materials. Let's get those websites to life!
 
 
 
-###### Meeting 7: Testing
+###### Lecture 7: Testing
 
 This session focuses on testing Node.js applications and the APIs that we have developed. We talk about general best practices in testing software, and several layers of application testing including unit testing, integration testing and acceptance testing. We implement several tests for our APIs with the test runner [AVA](https://github.com/avajs/ava).
 
 [Recorded talk](https://www.youtube.com/watch?v=NXMwf2OSVWQ)
 
-###### Meeting 8: Deploying & Scaling Apps with Docker
+###### Lecture 8: Deploying & Scaling Apps with Docker
 
 The final session in this series introduces the final step in an application's lifecycle — the deployment. We learn the basics of Docker and how to deploy our Node.js applications with Docker. We introduce the concepts of continuous integration and continuous deployment, as well as automated testing. This session also includes scaling Node.js applications with load balancers and a reverse proxy setup with nginx.
 
 [Recorded talk](https://youtu.be/R2eYylz41Gg)
 
-###### Meeting 9: Graduation Event
+###### Lecture 9: Graduation Event
 
 We will gather to hear the talk "JavaScript is a Buffet, not a Main Course" by [Chris Heilamnn](http://christianheilmann.com/), see the final projects and cheer our classmates!
 
