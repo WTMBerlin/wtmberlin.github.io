@@ -22,6 +22,8 @@ An introduction to popular software design patterns and how they can be utilized
 ##### Lecture 2: Authentication and Middleware
 Most web applications rely on user accounts and interaction. In this session we will talk about building user accounts, authentication with username and password, and see an example “log in with Facebook” implementation. We will also go over the concept of middleware in Express and see how we can utilize it for various purposes.
 
+[Recorded talk](https://youtu.be/G77bikDEGXg)
+
 ##### Lecture 3: Bridging APIs
 A web application of any complexity makes use of multiple 3rd party APIs, whether it’s a stock exchange ticker, a weather app, a news aggregator or something that interacts with storage services to store user data. In this session we will talk about modular applications and making use of existing APIs to grow the capabilities of our application.
 
