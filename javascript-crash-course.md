@@ -10,7 +10,7 @@ isStaticPost: true
 Welcome to Women Techmakers Berlin's Advanced JavaScript winter course!
 
 The course will spread over 5 lectures during March through May, where we will dive deeper in JS, following our last year's Beginners course. If you missed it - you can catch up, as all of our talks are available below.
-You are also welcome to join the JS Slack (#js-crash-course) in the [Women Techmakers Berlin Slack](https://join.slack.com/t/womentechmakersberlin/shared_invite/enQtMjQ1ODcwNTIyMTAxLTY1NmVjMGQzOTgxNmI0ZWUwYWNlNDg0MjkyYjEwNDY5ZjVlMzU1ZDZlMjc1MGUzNzRhZWM3YzYxMDVmNWYzNjQ), and ask your questions - to catch up on last year's material, or to ask question from the latest lecture.
+You are also welcome to join the JS channel in the Women Techmakers Berlin Slack (invite can be found in our meetup pages), and ask your questions - to catch up on last year's material, or to ask question from the latest lecture.
 This year we will keep uploading lectures, so don't worry if you have to miss one.
 
 In addition to the lectures, we will meet to hack on our projects on a bi-weekly basis, just you, your project, the instructors and a whole-lotta-mate!
