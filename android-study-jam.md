@@ -35,14 +35,14 @@ not mandatory. The first session will have an intro to Kotlin for non-developers
 We will meet Tuesdays from 19:00 to 21:00 for six weeks.
 
 During the six scheduled sessions, we will follow the codelab [Build your first Android app in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-ap)
-and we will go step by step through all the content. See the agenda bellow.
+and we will go step by step through all the content. See the agenda below.
 
 Working at home is not required but is encouraged.
 
 Android developers, named as coaches, will be present on
 the study jam session to help the students.
 
-We recommend you to added to all sessions, but skipping a session and doing the
+We recommend you to attend to all sessions, but skipping a session and doing the
 codelab at home is perfectly possible.
 
 **Session Agenda**
@@ -57,8 +57,11 @@ codelab at home is perfectly possible.
 #### Diversity and Code of Conduct
 
 The Android Study Jam is organized by Women Techmakers Berlin.
-Our mission is that everyone feels welcome to our events no matter gender or nationality, take their first steps
-in tech and be part of our local community.
+
+Our mission is that everyone feels welcome to our events no matter gender,
+nationality or age. We are a diversity supporting community and want to
+encourage newcomers to take their first steps in tech and become a part of the
+Berlin's tech scene.
 
 We strictly follow the [Berlin Code Of Conduct](http://berlincodeofconduct.org/)
 and we don’t tolerate any kind of bad behaviour as defined by the code of conduct.
