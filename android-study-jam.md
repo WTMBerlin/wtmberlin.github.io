@@ -20,7 +20,7 @@ On the first session, we will do a live introduction to Kotlin using [Try Kotlin
 You don't need to install anything, it runs on the browser. This introduction is
 aimed for non developers.
 
-Then, we will be following the codelab: [Build your first Android app in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-ap).
+Then, we will be following the codelab: [Build your first Android app in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0).
 
 The course is aimed for anyone who is interested in learning Android and
 creating their first app. Previous programming experience is recommended but
@@ -34,7 +34,8 @@ not mandatory. The first session will have an intro to Kotlin for non-developers
 
 We will meet Tuesdays from 19:00 to 21:00 for six weeks.
 
-During the six scheduled sessions, we will follow the codelab [Build your first Android app in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-ap)
+During the six scheduled sessions, we will follow the codelab
+[Build your first Android app in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0)
 and we will go step by step through all the content. See the agenda below.
 
 Working at home is not required but is encouraged.
