@@ -5,7 +5,7 @@ date:   2018-08-21
 categories: story
 ---
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/maria-story-1.jpg" style="display:none">
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/maria-story-1.jpg">
 
 #### Intro
 
@@ -23,7 +23,7 @@ I was born and grew up in Russia, in a strange generation. Despite of the develo
 
 I experienced it on myself since I don't have any completed higher education. I started to study chemistry, but after 2 years understood that don't like it that much, so I quit university. After a while, the same situation happened to me again, this time it was a distance education related to software development. But the curriculum was outdated and useless, so I quit again. I tried myself in different types of design. It took me some time to understand that I still want to learn how to code.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/maria-story-2.jpg" style="display:none">
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/maria-story-2.jpg">
 
 #### Changes are coming
 
@@ -48,7 +48,7 @@ Since this course was for complete beginners - we started our journey by wri
 During each lecture, 8 in total, we had additional mentors helping us. To ask for help, you just had to raise your hand and one of the free mentors would approach and help you.
 I liked it that way. It didn't slow down the lecture and at the same time it was an immediate help from an experienced person.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/maria-story-3.jpg" style="display:none">
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/maria-story-3.jpg">
 
 All the lectures were recorded, so we could rewatch them later on while working on our own projects. After each lecture we were given homework to practice the knowledge we learnt. Moreover, we were working on our own projects to present it at the graduation event.
 
@@ -73,7 +73,7 @@ Pupils are related to a parent and could have multiple subjects with a list of t
 The course was intense and challenging. Unfortunately, not everyone who started managed to complete it. Everyone has exceptional reasons for that. Some have personal situations, family reasons, priorities have changed or anything else.
 But for those who did complete it, it was rewarding. I know some of the graduated students managed to shift their careers and found jobs as developers.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/maria-story-4.jpg" style="display:none">
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/maria-story-4.jpg">
 
 #### Life after the course
 
@@ -100,4 +100,4 @@ As a conclusion, I would like to encourage you to try, to take a chance.
 
 _Maria Ovsyannikova is a Fullstack Software Engineer at Unu. Follow her: [@xelladesign](https://twitter.com/XellaDesign)._
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/maria-story-5.jpg" style="display:none">
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/maria-story-5.jpg">
