@@ -5,34 +5,6 @@ permalink: /javascript-crash-course/
 isStaticPost: true
 ---
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/js-bg.jpg" style="display:none">
-### Advanced
-
-Welcome to Women Techmakers Berlin's Advanced JavaScript winter course!
-
-The course will spread over 5 lectures during March through May, where we will dive deeper in JS, following our last year's Beginners course. If you missed it - you can catch up, as all of our talks are available below.
-You are also welcome to join the JS channel in the Women Techmakers Berlin Slack (invite can be found in our meetup pages), and ask your questions - to catch up on last year's material, or to ask question from the latest lecture.
-This year we will keep uploading lectures, so don't worry if you have to miss one.
-
-In addition to the lectures, we will meet to hack on our projects on a bi-weekly basis, just you, your project, the instructors and a whole-lotta-mate!
-
-
-##### Lecture 1: Design Patterns
-An introduction to popular software design patterns and how they can be utilized with JavaScript. In this session, we talk about what a design pattern is, what anti-patterns are, how they emerge and when to make use of one. We talk about some of the Gang of Four patterns and their applications.
-
-##### Lecture 2: Authentication and Middleware
-Most web applications rely on user accounts and interaction. In this session we will talk about building user accounts, authentication with username and password, and see an example “log in with Facebook” implementation. We will also go over the concept of middleware in Express and see how we can utilize it for various purposes.
-
-[Recorded talk](https://youtu.be/G77bikDEGXg)
-
-##### Lecture 3: Bridging APIs
-A web application of any complexity makes use of multiple 3rd party APIs, whether it’s a stock exchange ticker, a weather app, a news aggregator or something that interacts with storage services to store user data. In this session we will talk about modular applications and making use of existing APIs to grow the capabilities of our application.
-
-##### Lecture 4: The Frontend
-It’s time to give our application a real face. In this session we will go over the best practices of frontend engineering and building user interface applications. We will look at Vue.js, talk about its features and capabilities, and build a simple frontend with it.
-
-##### Lecture 5: Advanced Database Constructs
-There is a lot more than meets the eye when it comes to databases. In this talk we will briefly look at concepts like CAP theorem, ACID, and see how MongoDB operates under these. We will also see advanced query constructs in MongoDB with aggregate queries for reporting and analytics and other features like full text search and geolocation queries.
-
 
 ### Beginner
 
@@ -53,7 +25,7 @@ Additionally, all talks are recorded and uploaded to YouTube. This is done with 
 
 #### Syllabus
 
-##### Lecture 1: JavaScript & ES6 Fundamentals
+###### Lecture 1: JavaScript & ES6 Fundamentals
 
 An introduction on how JavaScript works and how to take advantage of the new ES6 syntax and features. In this session, we cover the basic programming paradigms in JavaScript, as well as topics like OOP and functional programming. We use the Chrome browser as a playground for an interactive session.
 
@@ -83,17 +55,17 @@ This session improves on the previous express application and introduces a Mongo
 
 [Recorded talk](https://www.youtube.com/watch?v=EYYO4Le8bWQ)
 
-###### Lecture 6: Hands-on Session
-
-This session is fully hands on. Work on your project, ask for help with your work or for clarifications on our past materials. Let's get those websites to life!
-
-
-
-###### Lecture 7: Testing
+###### Lecture 6: Testing
 
 This session focuses on testing Node.js applications and the APIs that we have developed. We talk about general best practices in testing software, and several layers of application testing including unit testing, integration testing and acceptance testing. We implement several tests for our APIs with the test runner [AVA](https://github.com/avajs/ava).
 
 [Recorded talk](https://www.youtube.com/watch?v=NXMwf2OSVWQ)
+
+###### Lecture 7: The Frontend
+
+It’s time to give our application a real face. In this session we will go over the best practices of frontend engineering and building user interface applications. We will look at Vue.js, talk about its features and capabilities, and build a simple frontend with it.
+
+[Recorded talk](https://www.youtube.com/watch?v=io-hSpo_Yos&index=11&list=PL9pDl_Oth4cruQEVM4qUBKN-H4QMWGNNU)
 
 ###### Lecture 8: Deploying & Scaling Apps with Docker
 
@@ -103,17 +75,47 @@ The final session in this series introduces the final step in an application's l
 
 ###### Lecture 9: Graduation Event
 
-We will gather to hear the talk "JavaScript is a Buffet, not a Main Course" by [Chris Heilamnn](http://christianheilmann.com/), see the final projects and cheer our classmates!
+We will gather to see the final projects and cheer our classmates!
 
 See the [graduation event pictures](https://www.facebook.com/pg/WomenTechmakersBerlinPage/photos/?tab=album&album_id=1561335890621986)
 
+Last year we had the talk "JavaScript is a Buffet, not a Main Course" by [Chris Heilamnn](http://christianheilmann.com/),
 
-Talk Description: 
-Now that you learned about JavaScript, you're ready to take on the world as JavaScript runs everywhere. The trick is to not get overwhelmed and to find what makes you happy as happy developers are effective developers. 
+Talk Description:
+Now that you learned about JavaScript, you're ready to take on the world as JavaScript runs everywhere. The trick is to not get overwhelmed and to find what makes you happy as happy developers are effective developers.
 
 Chris Heilmann has a 18 year old history of using the language and wrote many books about it. Let him help you not get lost in the rabbit hole that is JavaScript in 2017.
 
 Read about the talk: [So, you learned JavaScript – what now?](https://christianheilmann.com/2017/12/05/so-you-learned-javascript-what-now/)
+
+
+### Advanced
+
+Welcome to Women Techmakers Berlin's Advanced JavaScript winter course!
+
+The course will spread over 5 lectures during March through May, where we will dive deeper in JS, following our last year's Beginners course. If you missed it - you can catch up, as all of our talks are available below.
+You are also welcome to join the JS channel in the Women Techmakers Berlin Slack (invite can be found in our meetup pages), and ask your questions - to catch up on last year's material, or to ask question from the latest lecture.
+This year we will keep uploading lectures, so don't worry if you have to miss one.
+
+In addition to the lectures, we will meet to hack on our projects on a bi-weekly basis, just you, your project, the instructors and a whole-lotta-mate!
+
+
+##### Lecture 1: Design Patterns
+An introduction to popular software design patterns and how they can be utilized with JavaScript. In this session, we talk about what a design pattern is, what anti-patterns are, how they emerge and when to make use of one. We talk about some of the Gang of Four patterns and their applications.
+
+##### Lecture 2: Authentication and Middleware
+Most web applications rely on user accounts and interaction. In this session we will talk about building user accounts, authentication with username and password, and see an example “log in with Facebook” implementation. We will also go over the concept of middleware in Express and see how we can utilize it for various purposes.
+
+[Recorded talk](https://youtu.be/G77bikDEGXg)
+
+##### Lecture 3: Bridging APIs
+A web application of any complexity makes use of multiple 3rd party APIs, whether it’s a stock exchange ticker, a weather app, a news aggregator or something that interacts with storage services to store user data. In this session we will talk about modular applications and making use of existing APIs to grow the capabilities of our application.
+
+##### Lecture 4: The Frontend
+It’s time to give our application a real face. In this session we will go over the best practices of frontend engineering and building user interface applications. We will look at Vue.js, talk about its features and capabilities, and build a simple frontend with it.
+
+##### Lecture 5: Advanced Database Constructs
+There is a lot more than meets the eye when it comes to databases. In this talk we will briefly look at concepts like CAP theorem, ACID, and see how MongoDB operates under these. We will also see advanced query constructs in MongoDB with aggregate queries for reporting and analytics and other features like full text search and geolocation queries.
 
 
 #### How to join
@@ -123,19 +125,19 @@ Please be aware you'll be required to attend at least 80% of the classes to succ
 
 #### Diversity and Code of Conduct
 
-Our mission is that everyone feels welcome to our events no matter gender or 
+Our mission is that everyone feels welcome to our events no matter gender or
 nationality, take their first steps in tech and be part of our local community.
 
-We strictly follow the [Berlin Code Of Conduct](http://berlincodeofconduct.org/) 
+We strictly follow the [Berlin Code Of Conduct](http://berlincodeofconduct.org/)
 and we don’t tolerate any kind of bad behaviour as defined by the code of conduct.
 
 #### Location
 
-Le Wagon Berlin
+Eurostaff Group GmbH
 
-Rudi-Dutschke-Str. 26, 10969 Berlin
+Karl-Liebknecht Strasse 5, 10178 Berlin
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.4558104670805!2d13.389230816210418!3d52.50708967981181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851d150f75b59%3A0x79345cc8e68056cc!2sLe+Wagon+Berlin+Coding+Bootcamp!5e0!3m2!1sen!2sde!4v1520287959707" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.7375506592384!2d13.40155441575592!3d52.520088543975135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851d05de45b15%3A0xc2c0ad76970db702!2sEurostaff+Group+GmbH!5e0!3m2!1sen!2sde!4v1538389117458" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 #### Communication
 
@@ -163,7 +165,7 @@ Ping the coaches on Slack, who can help you plan your catching up.
 
 **How many hours do I need to study each week?**
 
-Ideally you'll keep working on your project at home. We recommend investing about 3 hours a week in order to complete the whole course and do the project. 
+Ideally you'll keep working on your project at home. We recommend investing about 3 hours a week in order to complete the whole course and do the project.
 
 **Do I need to prepare the sessions at home?**
 
@@ -180,4 +182,3 @@ RSVP opens for the next Meetup one week in advance, and you can RSVP during clas
 **Will food be provided?**
 
 There will be drinks and snacks.
-
