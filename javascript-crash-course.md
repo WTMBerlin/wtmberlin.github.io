@@ -16,7 +16,7 @@ In the end we expect to come up with a simple backend application that gets depl
 
 Finally, this is a challenging, intensive, but fun and resourceful course. We will strive to do better each and every week. It won’t be a bed of roses, but it will provide immense learning opportunities.
 
-We also have a dedicated Slack channel (#js-crash-course) in the [WTM Slack](https://womentechmakersberlin.slack.com/) to help out the attendees with their assignments outside the class hours. An invite link to our Slack can be found in each of the meetup events.
+We also have a dedicated Slack channel (#js-crash-course) in the [WTM Slack](http://slack.wtmberlin.com/) to help out the attendees with their assignments outside the class hours. An invite link to our Slack can be found in each of the meetup events.
 
 During the meetings a group of volunteers will be around to answer your questions.
 Additionally, all our volunteers are online on Slack to answer your questions, in addition to several online-only volunteers. You'll spot them easily - they have a red cross helmet emoji as part of their names.
