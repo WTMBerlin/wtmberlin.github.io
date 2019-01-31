@@ -43,7 +43,7 @@ navigationLinks:
  - {permalink: "/javascript-crash-course/", text: "JS Crash Course"}
  - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Facebook Group"}
  - {link: "https://twitter.com/wtm_berlin", text: "Twitter"}
- - {link: "https://womentechmakersberlin.slack.com", text: "Slack"}
+ - {link: "https://slack.wtmberlin.com/", text: "Slack"}
  - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Facebook Page"}
  - {link: "https://github.com/WTMBerlin", text: "GitHub"}
 bottomNavigationLinks:
