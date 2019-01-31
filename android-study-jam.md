@@ -88,7 +88,7 @@ Dates for graduation event are yet not confirmed.
 
 #### Communication
 
-1. Join the [WTM Berlin Slack](https://womentechmakersberlin.slack.com/)
+1. Join the [WTM Berlin Slack](http://slack.wtmberlin.com/)
 2. Join the #android-study-jam channel.
 
 #### FAQ for Students
