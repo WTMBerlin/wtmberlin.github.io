@@ -5,7 +5,7 @@ date:   2017-09-23 17:15:45 +0100
 categories: story
 ---
 
-A few years ago I started **studying computer science without any prior programming experience. And in German**. Women Techmakers Berlin helped me to accomplish this challenging goal so I give back to the community as much as I can by supporting the organizer's team. 
+A few years ago I started **studying computer science without any prior programming experience and in German, which isn't my native language**. Women Techmakers Berlin helped me to accomplish this challenging goal and beyond that to find a most interesting hobby. I give back to the community as much as I can by supporting the organizer's team. Our work is time consuming but at the and I have a chance of giving others similar opportunities that I got. I had a pleasure of attending many awesome events that taught me a lot.
 I currently work as a software developer and absolutely love it.
 
 
