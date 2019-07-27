@@ -54,3 +54,5 @@ Through the exchange we had and the feedback I got, I believe that I could make 
 We have to realize that, especially as women, we are never just one. We are many. If I ask for a lower salary the woman after me gets ten percent less. And the woman after her and the one after her and so on… We learn and rise collectively. We empower each other. 
 
 That is why initiatives like the Women Techmakers are so vital for our community. They provide the stepping stones for building up a strong network, acquiring new skills and seeing alternatives by providing strong role models. They are me, they are you. My resolution to continue to mentor was reaffirmed that special day. And you can do it, too. Have something, anything to pass on? Reach out to people close to you. Be there when there are questions. Offer a shoulder to lean on when times are bad. And most of all: create opportunities for others. Who knows? The listener might be the future CTO we have all been waiting for. 
+
+_Franziska Hauck - Regional Lead for Developer Relations for Austria, Germany & Switzerland at Google. Follow her: https://twitter.com/_francied l_
