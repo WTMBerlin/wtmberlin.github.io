@@ -1,3 +1,11 @@
+---
+layout: post
+title:  Career Corner and Community Effect
+date: 2019-08-03
+categories: wtmberlin iwd
+---
+
+
 # International Women's Day
 
 When I marched up to the doors of Wooga’s headquarters on March 30, I had a clear plan in mind: attend the International Women’s Day event by the Women Techmakers Berlin, pitch in with organizational tasks, network and leave after about two hours. Alas, the best-laid plans were quickly laid to rest. And that turned about to be a good thing.
