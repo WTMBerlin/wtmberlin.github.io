@@ -12,8 +12,6 @@ Whether you’ve already started or have zero programming experience, have a sid
 
 During the course, you will get a general overview of mobile development for Android, learn basic programming concepts as well as core vocabulary and concepts in Android, get hands-on experience building a small app using the Kotlin language, and understand what opportunities exist for you in the vibrant Berlin tech scene as an Android programmer. https://github.com/WTMBerlin/AndroidStudyJam2019
 
-<img src='https://github.com/WTMBerlin/wtmberlin.github.io/blob/master/img/posts/android-study-jam-app.gif?raw=true' width=300 />
-
 Besides technical skills, we will also cover other important skills for being an effective programmer, such as communicating your progress, giving and receiving feedback, searching for learning resources. And much more! 🚀
 
 👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻
@@ -73,6 +71,3 @@ Other events:
 https://www.meetup.com/Women-Techmakers-Berlin/events
 
 Women Techmakers Berlin Slack: https://goo.gl/irTRkE
-
-<img src='https://github.com/WTMBerlin/wtmberlin.github.io/blob/master/img/posts/android-study-jam-logo.png?raw=true' width=300 />
-
