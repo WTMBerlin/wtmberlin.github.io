@@ -12,8 +12,9 @@ Whether you’ve already started or have zero programming experience, have a sid
 
 During the course, you will get a general overview of mobile development for Android, learn basic programming concepts as well as core vocabulary and concepts in Android, get hands-on experience building a small app using the Kotlin language, and understand what opportunities exist for you in the vibrant Berlin tech scene as an Android programmer. https://github.com/WTMBerlin/AndroidStudyJam2019
 
+<img src='https://github.com/WTMBerlin/wtmberlin.github.io/blob/master/img/posts/android-study-jam-app.gif?raw=true' width=300 />
+
 Besides technical skills, we will also cover other important skills for being an effective programmer, such as communicating your progress, giving and receiving feedback, searching for learning resources. And much more! 🚀
-More detailed information and materials are here: http://wtmberlin.com/android-study-jam/
 
 👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻
 
@@ -50,11 +51,10 @@ We follow Berlin’s code of conduct https://berlincodeofconduct.org
 
 👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻
 
-More detailed information and resources here: http://wtmberlin.com/android-study-jam/
-
 ABOUT GDG BERLIN ANDROID
+
 Berlin Google Developer Group (GDG) is focused on Android development https://berlindroid.de
-Go here to join the Android Developers Group Slack team: https://adg-berlin.herokuapp.com/
+Android Slack: https://adg-berlin.herokuapp.com/
 Twitter:
 http://twitter.com/berlindroid
 
@@ -72,4 +72,7 @@ http://twitter.com/wtm_berlin
 Other events:
 https://www.meetup.com/Women-Techmakers-Berlin/events
 
-Slack: https://goo.gl/irTRkE
+Women Techmakers Berlin Slack: https://goo.gl/irTRkE
+
+<img src='https://github.com/WTMBerlin/wtmberlin.github.io/blob/master/img/posts/android-study-jam-logo.png?raw=true' width=300 />
+
