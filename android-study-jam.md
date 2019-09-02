@@ -6,127 +6,70 @@ isStaticPost: true
 ---
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/android-study-jam.jpg" style="display:none">
 
-At the Android Study Jam, you will learn to develop your
-first Android app, including basic XML and Kotlin, creating user interfaces and
-handling the user input.
+This event is for all those taking their first steps in learning programming for Android development.
 
-On 2018 we celebrate the 4th edition of our Android Study Jam!
-And we have new content! We are going to teach you Android using Kotlin:
-A popular programming language that is easier to
-use than Java, it is fully supported for Android apps and it's in high demand for Android
-developers.
+Whether you’ve already started or have zero programming experience, have a side project or are searching for a job, come and join us at the Android Study Jam: a series of 3 workshops run by Women Techmakers in conjunction with the organisers of the Berlin Android community. This is the 5th edition of the Android Study Jam and with this event trio we are testing a new format, hope you will enjoy it! 
 
-On the first session, we will do a live introduction to Kotlin using [Try Kotlin website](https://try.kotlinlang.org/).
-You don't need to install anything, it runs on the browser. This introduction is
-aimed for non developers.
+During the course, you will get a general overview of mobile development for Android, learn basic programming concepts as well as core vocabulary and concepts in Android, get hands-on experience building a small app using the Kotlin language, and understand what opportunities exist for you in the vibrant Berlin tech scene as an Android programmer. https://github.com/WTMBerlin/AndroidStudyJam2019
 
-Then, we will be following the codelab: [Build your first Android app in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0).
+Besides technical skills, we will also cover other important skills for being an effective programmer, such as communicating your progress, giving and receiving feedback, searching for learning resources. And much more! 🚀
+More detailed information and materials are here: http://wtmberlin.com/android-study-jam/
 
-The course is aimed for anyone who is interested in learning Android and
-creating their first app. Previous programming experience is recommended but
-not mandatory. The first session will have an intro to Kotlin for non-developers.
+👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻
 
-#### How to join
+9.09 - Discussion Panel: Switching Careers and Becoming an Android Developer 💾
+- Everyday work of Android developers
+- The technology used in most projects
+- Preparing for the job search
+- Support in the community
+- A Q&A session
 
-[join the next Android Study Jam on Meetup.com](https://www.meetup.com/women-techmakers-berlin/events/)
+Note 📈: This session will be appropriate for anyone interested in learning more about the field and prior programming knowledge will not be necessary. Laptops are optional here.
 
-#### How we work
+16.09 - Technical workshop [BRING YOUR LAPTOP] 💾
+- Install and configure Android Studio andSlack
+- Open and run your first Android project
+- Get a small intro to Github
+- Learn how to make use of online resources to effectively problem solve if you get stuck.
+- Homework assignments: Say Hi on Slack, examine the course code and Android Studio once per day.
 
-We will meet Tuesdays from 19:00 to 21:00 for six weeks.
+23.09 - Technical workshop [BRING YOUR LAPTOP] 💾
+- Create an Android app with XML and Kotlin
+- Giving and receiving feedback
+- Reading technical documentation and internet resources
+- Intro to handling errors
+- Stand-up meeting
 
-During the six scheduled sessions, we will follow the codelab
-[Build your first Android app in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0)
-and we will go step by step through all the content. See the agenda below.
+👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻
 
-Working at home is not required but is encouraged.
+We will meet on Mondays between 18:00- 21:30 for three weeks with experienced Android developers present to instruct and help you. Working at home is not required but is encouraged. We also recommend you attend all sessions if you have no to little programming experience.
 
-Android developers, named as coaches, will be present on
-the study jam session to help the students.
+This is just the start for you though. After the course ends, there will still be plenty of support and opportunities for you from within the Berlin Android community with free weekly co-learning meetups , monthly presentations and drinks, free/discounted conference tickets. The Android community is open to all people from all backgrounds.
 
-We recommend you to attend to all sessions, but skipping a session and doing the
-codelab at home is perfectly possible.
+We follow Berlin’s code of conduct https://berlincodeofconduct.org
 
-**Session Agenda**
+👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻
 
-- Start at 19:00~19:10
-- Introduction: News from the community and agenda presentation (5 minutes)
-- Work on the codelab: An instructor will follow the codelab, showing every step on the screen projector, students are encouraged to follow along and to ask questions when blocked.
-- Break at 20:15
-- Questions and self-learning
-- End at 21:00
+More detailed information and resources here: http://wtmberlin.com/android-study-jam/
 
-#### Diversity and Code of Conduct
+ABOUT GDG BERLIN ANDROID
+Berlin Google Developer Group (GDG) is focused on Android development https://berlindroid.de
+Go here to join the Android Developers Group Slack team: https://adg-berlin.herokuapp.com/
+Twitter:
+http://twitter.com/berlindroid
 
-The Android Study Jam is organized by Women Techmakers Berlin.
+Do you want to offer a presentation? Fill this form here: https://goo.gl/forms/LKVnBINiIcyeeEfy2
 
-Our mission is that everyone feels welcome to our events no matter gender,
-nationality or age. We are a diversity supporting community and want to
-encourage newcomers to take their first steps in tech and become a part of the
-Berlin's tech scene.
+ABOUT WTM BERLIN
 
-We strictly follow the [Berlin Code Of Conduct](http://berlincodeofconduct.org/)
-and we don’t tolerate any kind of bad behaviour as defined by the code of conduct.
+At Women Techmakers Berlin we are encouraging diversity in tech in Berlin since 2015. Get visibility, networking and resources to make the tech community of Berlin diverse and inclusive!
 
-#### Location
+❤ Our meetup group is always open and inclusive to people of all backgrounds, regardless of gender, age, race, expertise, etc - everyone is welcome ❤
 
-Soundcloud
-Rheinsberger Str. 76/77
-10115 Berlin
+Follow us on TWITTER:
+http://twitter.com/wtm_berlin
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2426.7933667539633!2d13.392551315644978!3d52.53717267981745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851f11cea3617%3A0xd4277880007598c2!2sSoundcloud+HQ!5e0!3m2!1sen!2sde!4v1522512762033" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+Other events:
+https://www.meetup.com/Women-Techmakers-Berlin/events
 
-#### Calendar
-
-- 15.05.2018: Study Jam Kickoff + Introduction to Kotlin
-- 22.05.2018: Codelab
-- 29.05.2018: Codelab
-- 05.06.2018: Codelab
-- 12.06.2018: Codelab
-- 19.06.2018: Codelab
-
-Dates for graduation event are yet not confirmed.
-
-#### Communication
-
-1. Join the [WTM Berlin Slack](http://slack.wtmberlin.com/)
-2. Join the #android-study-jam channel.
-
-#### FAQ for Students
-
-**Do I need to attend to all the sessions?**
-
-No, we won’t check the attendance.
-
-**I skipped some lessons and I am lost. Can I still come to the events?**
-
-Yes, you will have plenty of time to catch up. You can work on them during the lessons and the coaches will help you.
-
-**How many hours do I need to study each week?**
-
-Studying at home is not required, except if you skip lessons.
-
-**Do I need to prepare the sessions at home?**
-
-No, it's not required.
-
-**Do I need to install Android Studio?**
-
-The course will tell you when to install Android Studio (At the first lesson)
-
-**Do I need a powerful computer?**
-
-It is recommended a computer with 8GB of RAM to be able to run Android Studio and an Emulator. Any operating system will work.
-
-**Do I need an Android device?**
-
-Not mandatory but nice to have, you can use an emulator instead.
-
-**What other resources to learn Android and programming do you recommend?**
-
-If you need extra support, we recommend the following content:
-
-- [Android Basics: User Interface](https://eu.udacity.com/course/android-basics-user-interface--ud834)
-- [Java Programming Basics](https://eu.udacity.com/course/java-programming-basics--ud282)
-
-Both courses are free!
-
+Slack: https://goo.gl/irTRkE
