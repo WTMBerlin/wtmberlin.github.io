@@ -10,13 +10,15 @@ This event is for all those taking their first steps in learning programming for
 
 Whether you’ve already started or have zero programming experience, have a side project or are searching for a job, come and join us at the Android Study Jam: a series of 3 workshops run by Women Techmakers in conjunction with the organisers of the Berlin Android community. This is the 5th edition of the Android Study Jam and with this event trio we are testing a new format, hope you will enjoy it! 
 
+<img src="https://github.com/WTMBerlin/wtmberlin.github.io/blob/master/img/posts/android-study-jam-app.gif?raw=true" width="300" />
+
 During the course, you will get a general overview of mobile development for Android, learn basic programming concepts as well as core vocabulary and concepts in Android, get hands-on experience building a small app using the Kotlin language, and understand what opportunities exist for you in the vibrant Berlin tech scene as an Android programmer. https://github.com/WTMBerlin/AndroidStudyJam2019
 
 Besides technical skills, we will also cover other important skills for being an effective programmer, such as communicating your progress, giving and receiving feedback, searching for learning resources. And much more! 🚀
 
 👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻👩🏾‍💻
 
-9.09 - Discussion Panel: Switching Careers and Becoming an Android Developer 💾
+16.09 - Discussion Panel: Switching Careers and Becoming an Android Developer 💾
 - Everyday work of Android developers
 - The technology used in most projects
 - Preparing for the job search
@@ -25,14 +27,14 @@ Besides technical skills, we will also cover other important skills for being an
 
 Note 📈: This session will be appropriate for anyone interested in learning more about the field and prior programming knowledge will not be necessary. Laptops are optional here.
 
-16.09 - Technical workshop [BRING YOUR LAPTOP] 💾
+23.09 - Technical workshop [BRING YOUR LAPTOP] 💾
 - Install and configure Android Studio andSlack
 - Open and run your first Android project
 - Get a small intro to Github
 - Learn how to make use of online resources to effectively problem solve if you get stuck.
 - Homework assignments: Say Hi on Slack, examine the course code and Android Studio once per day.
 
-23.09 - Technical workshop [BRING YOUR LAPTOP] 💾
+30.09 - Technical workshop [BRING YOUR LAPTOP] 💾
 - Create an Android app with XML and Kotlin
 - Giving and receiving feedback
 - Reading technical documentation and internet resources
