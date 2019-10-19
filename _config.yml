@@ -11,6 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Women Techmakers Berlin"
+tagline: "Making tech diversity happen!"
 description: "At Women Techmakers Berlin we are encouraging diversity in tech in Berlin since 2015. Get visibility, networking and resources to make the tech community of Berlin diverse and inclusive!"
 baseurl: ""
 url: "https://wtmberlin.github.io"
