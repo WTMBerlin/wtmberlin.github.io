@@ -13,11 +13,15 @@
   .h1 {
     color: $jumbotron-heading-color;
   }
-  
+
   p {
     margin-bottom: ($jumbotron-padding / 2);
     font-size: $jumbotron-font-size;
     font-weight: 200;
+  }
+
+  .jumbotron__tagline {
+    margin-top: $jumbotron-padding;
   }
 
   > hr {
@@ -34,7 +38,10 @@
   }
 
   @media screen and (min-width: $screen-sm-min) {
-    padding: ($jumbotron-padding * 1.6) 0;
+    padding: 0 ($jumbotron-padding * 2.2);
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
 
     .container &,
     .container-fluid & {
@@ -46,5 +53,10 @@
     .h1 {
       font-size: ($font-size-base * 4.5);
     }
+
+    .animated {
+      text-align: left;
+    }
+
   }
 }
