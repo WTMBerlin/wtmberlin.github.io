@@ -70,7 +70,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "4000", specialCharacter: "+", info: "members", detail: "from everywhere"}
+ - {count: "5000", specialCharacter: "+", info: "members", detail: "from everywhere"}
  - {count: "80", specialCharacter: "+", info: "events", detail: "organized in 2018"}
  - {count: "3", specialCharacter: "", info: "study groups", detail: "Android Study Jam with Kotlin, Flutter Study Jam, JavaScript Crash Course"}
 
