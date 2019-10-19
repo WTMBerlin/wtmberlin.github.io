@@ -10,7 +10,7 @@ My name is Thabi and I am a Visual Communications Design graduate who recently m
 
 I was learning how to code with various online learning platforms before moving here. The main obstacle I had with self learning was a lack of direction and no clear path to follow. I would jump tutorial to tutorial in a quest for the next best one. I am happy that Berlin offers many Meetup communities that are dedicated to tech. I recently started a Javascript Crash Course with Women Techmakers Berlin and I am excited for the next few sessions. I have experience with Javascript, but this learning path will help to fill my knowledge gaps. The course is also tailored for beginners and you never have to feel stuck because there are many mentors available. 
 
-#### My personal motivation to join the **Javascript Crash Course Session 3**
+#### My personal motivation to join the Javascript Crash Course Session 3
 
 * Get a job as a frontend or full stack developer. I find the course very comprehensive and I am excited to learn about the following topics: 
   * JavaScript & ES6 Fundamentals 
@@ -22,7 +22,7 @@ I was learning how to code with various online learning platforms before moving 
   * Deployment and Scaling
 * Make new friends and be inspired by others.
 
-#### My personal advice other to new developers
+#### My personal advice to other new developers
 
 * Join a meetup, going to meetups helped to accelerate my skills and motivation. 
 * Your voice matters. As a beginner, it is sometimes difficult to follow along with certain tutorials or even documentation. I have gone so far with learning from other beginners and also teaching another person whatever I have learnt. It helps to solidify my learning. 
