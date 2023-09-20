@@ -39,9 +39,8 @@ socialImageSrcFacebook: "/img/wtm-logo.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/android-study-jam/", text: "Android Study Jam"}
+ - {link: "https://linktr.ee/wtmberlin", text: "2023/2024 Linktree"}
  - {link: "https://golangbridge.org/", text: "Go Study Group"}
- - {permalink: "/javascript-crash-course/", text: "JS Crash Course"}
  - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Facebook Group"}
  - {link: "https://twitter.com/wtm_berlin", text: "Twitter"}
  - {link: "http://slack.wtmberlin.com/", text: "Slack"}
@@ -87,6 +86,7 @@ footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "https://linktr.ee/wtmberlin", text: "2023/2024 Linktree"}
    - {link: "https://facebook.com/pg/WomenTechmakersBerlinPage", text: "Facebook Page"}
    - {link: "https://www.facebook.com/groups/1106085959408694/", text: "Facebook Group"}
    - {link: "https://twitter.com/wtm_berlin", text: "Twitter"}
